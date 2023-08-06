@@ -1,4 +1,4 @@
-This message is restricted to the recipient, the observer, any Professionals and staff at Dewey Center, those loved ones, and those of Bryan. For them, dissemination is encouraged.
+This message is restricted to the recipient, the observer, any Professionals and staff at Dewey Center, their loved ones, and those of Bryan. For them, dissemination is encouraged.
 
 Outside of my four family and my dwindling few friends, I would like to relay my thanks to RN Neil at Dewey for, among other things, significantly improving my ability to resist periods of self-degradation without substances. 
 
