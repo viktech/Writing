@@ -6,7 +6,7 @@ Also, A big thanks to RN Mike at Dewey who greatly contributed to my research (a
 
 I have not met Dr., but I have seen and heard how others speak highly of him and desire his care again.
 
-I feel that PA Geoffrey Watters changed a lot for me in my go-through of PHP 2. He didn't particularly seem to acknowledge me when I was at Dewey the second time for IOP RED, which made me kind of sad. I've gained weight in my recovery. Maybe I wasn't recognized. It may just be his demeanor, and I'm happy to see him again all the same. He has a lot of faces to attend to. 
+I feel that PA Geoffrey Watters changed a lot for me in my go-through of PHP 2. He didn't particularly seem to acknowledge me when I was at Dewey the second time for IOP RED, which made me kind of sad. I've gained weight in my recovery. Maybe I wasn't recognized. It may just be his demeanor, and I'm happy to see him again all the same. He has a lot of faces to attend to. I wish I could thank him greater for his exceptional level of attention. My hair loss has stopped.
 
 I wish Dr Longo well and thank him for his gift of the art I meditated upon in Dewey's green space during my breaks. 
 
