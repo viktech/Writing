@@ -1,3 +1,5 @@
+This writing is not classified or privileged, and may be distributed at will.
+
 I think I am drawn towards nitrous oxide because it reduces the intensity and slows down rapidity of ideas in a way similar to how functionally effective medications have done for me in the past. It allows me to focus on and assemble the usual fragments of thought into more complex expression. It is very much self medication, because it seems to slow my thought and it helps me think in a more focused, linear fashion, while not being overwhelmed by emotion. Some people do drugs because it makes them feel good. This drug changes how I think. It's not that different, but in my experience, unique.
 
 In my independent study of the few publications that exist (and I can provide a cited summary of my aggregate research of the few available studies regarding nitrous oxide injury and addiction) I have tried to help myself through knowledge. 
