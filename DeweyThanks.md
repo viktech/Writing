@@ -1,3 +1,5 @@
+This message is restricted to the recipient, the observer, any Professionals and staff at Dewey Center, those professionals' loved ones, and Bryan. 
+
 Outside of my four family and my dwindling few friends, I would like to relay my thanks to RN Neil at Dewey for, among other things, significantly improving my ability to resist periods of self-degradation without substances. 
 
 Also, A big thanks to RN Mike at Dewey who greatly contributed to my research (and gave me some banger tunes.) I have great gifts in mind for both of them, I just don't have the budget. Dr Longo will likely know them both. 
