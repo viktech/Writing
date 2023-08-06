@@ -12,6 +12,6 @@ I wish Dr Longo well and thank him for his gift of the art I meditated upon in D
 
 I want to give great gifts for the front desk and cafe staff at Dewey Center, too. They helped a huge amount. I know there are others. Maybe one day I will be in a position to contribute a gift for all to enjoy.
 
-PHP Olivia Wenzel has moved on from Dewey, but she provided an exceptional experience. I hope she herself, and know the individuals she is tasked with, are well.
+PHP Olivia Wenzel has moved on from Dewey, but she provided an exceptional experience. I hope she herself, and know the individuals she is tasked with, will be well.
 
 Dewey Center did me well, and validated my hypothesis that if you seek to improve, and seek out the help of others, success is an outcome. I only hope to help others myself.
