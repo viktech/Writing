@@ -8,7 +8,7 @@ I have not met Dr., but I have seen and heard how others speak highly of him and
 
 I feel that PA Geoffrey Watters changed a lot for me in my go-through of PHP 2. He didn't particularly seem to acknowledge me when I was at Dewey the second time for IOP RED, which made me kind of sad. I've gained weight in my recovery. Maybe I wasn't recognized. It may just be his demeanor, and I'm happy to see him again all the same. He has a lot of faces to attend to. I wish I could thank him greater for his exceptional level of attention. My hair loss has stopped.
 
-I wish Dr Longo well and thank him for his gift of the art I meditated upon in Dewey's green space during my breaks. 
+I wish Dr Longo well and thank him for his gift of the art I meditated upon in Dewey's green space during my breaks. It is likely I have seen him but don't know who he is. If he can, he should status check on idle people for fun.
 
 I want to give great gifts for the front desk and cafe staff at Dewey Center, too. They helped a huge amount. I know there are others. Maybe one day I will be in a position to contribute a gift for all to enjoy.
 
