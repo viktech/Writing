@@ -10,4 +10,4 @@ Do you like Marvel or DC?
 
 See?  We are already done with the first lesson.  The homework assignment is to come up with an answer to the question.  any answer will do.
 
-For now, unless you have any questions about I've written,or want to learn by asking more, the class is dismissed.
+For now, unless you have any questions about I've written, or want to learn by asking more, the class is dismissed.
