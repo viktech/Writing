@@ -6,9 +6,9 @@ That's awesome. You're doing great. But I want you to do even greater. I think y
 
 Step 1. Open terminal. Type 'cd ~/Documents/'
 '~' is a path shortcut to user home directory. In this case, '/home/!username/'
-'cd' is 'change directory' and lets move your working path.
+'cd' is 'change directory' and lets you move your working path.
 
-[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your users directory, you can both read and write with no problem.
+[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your users directory, you can both read and write to the contents with no problem.
 
 1a. Go back up one directory level using 'cd ..' (change directory to the directory above the current directory) and run 'ls -l' (list current directory contents, long list mode.) This is, among other things, what a permissions string looks like. Sometimes the account you're "borrowing" doesn't have proper permissions to do what you want to do.
 
@@ -20,11 +20,11 @@ A fun thing about permissions - even if you don't have read to a directory, you 
 
 1c. For extra credit, 'man chmod' to open the change mode command manual page, and tell me why 'chmod 777' is easy but sloppy.]
 
-Step 2. From this location, the path of which can be printed using 'pwd' (present working directory,) use the command string 'mkdir scripts && cd scripts' (make directory, name scripts - and right away, change to the scripts directory.)
+Step 2. From this location, the path of which can be printed using 'pwd' (present working directory,) use the command string 'mkdir scripts && cd scripts' (make directory named scripts - and right away, change to the scripts directory.)
 
-It's a good idea to double check where you think you are against where you actually are using 'pwd' before beginning some data operation.
+It's a good idea to double check where you think you are against where you actually are using 'pwd' (present working directory) before beginning some data operation.
 
-Step 3. Did you 'pwd' to double check you were in /home/!username/Documents/scripts/ ? Good. Is that where you are? Even better. So now, 'touch autoNmap.sh' (create a file header in the file system called autoNmap.sh, and leave the content of the file blank.) 'touch ' is also useful to update the "last modified" timestamp without opening the file.
+Step 3. Did you 'pwd' to double check you were in /home/!username/Documents/scripts/ ? Good. Is that where you are? Even better. So now, 'touch autoNmap.sh' (create a file header in the file system called autoNmap.sh, and leave the content of the file blank.) 'touch' can also be useful to update the "last modified" timestamp without opening the file.
 
 The file extension .sh is indicative of a shell script. We are going to create a shell script to ask the user a few questions, autorun nmap based on the answers, automatically document the resulting output into a folder with the run date name and a file with the run time name, then display a little happy face to the user before ending.
 
