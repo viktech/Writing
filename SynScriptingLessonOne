@@ -4,8 +4,8 @@ You know about terminal and console commands. You have begun to practice using t
 
 That's awesome. You're doing great. But I want you to do even greater. I think you can do it, and I'll help if you can't.
 
-Step 1. Open terminal. Type 'cd /Documents/'
-'' is a path shortcut to user home directory. In this case, '/home/!username/'
+Step 1. Open terminal. Type 'cd ~/Documents/'
+'~' is a path shortcut to user home directory. In this case, '/home/!username/'
 'cd' is 'change directory' and lets move your working path.
 
 [Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your users directory, you can both read and write with no problem.
