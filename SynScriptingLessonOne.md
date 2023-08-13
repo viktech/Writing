@@ -53,6 +53,7 @@ Let me know when you are ready to continue.
 
 PS.  the Linux filesystem is case-sensitive.  'autoNmap.sh' 'autonmap.sh' and 'Autonmap.sh' can all exist in the same directory at one time, causing no problem for the computer but lots of issues for you if you don't think about it.  As they say - There may be a PEBKAC - Problem Exists Between Keyboard and Chair.
 
+PPS.  /etc/hosts is a file with no file extension.  if you 'cd /etc/ && mkdir hosts' both a file named './hosts' and the directory named './hosts/' both live in /etc/
 
 Good luck, happy hunting!
 
