@@ -27,7 +27,7 @@ A fun thing about permissions - even if you don't have read to a directory, you 
 1c. For extra credit, 'man chmod' to open the change mode command manual page, and tell me why 'chmod 777' is easy but sloppy.]
 
 
-Step 2. From this location, the path of which can be printed using 'pwd' (present working directory,) use the command string 'mkdir scripts && cd scripts' (make directory named scripts - and right away, change the working path from the current directory path into the local directory called scripts.)
+Step 2. From this location, the path of which can be printed using 'pwd' (present working directory,) use the command string 'mkdir scripts && cd scripts' (make directory named scripts - and right away, change the working path from the current directory path into the local directory named scripts.)
 
 It's a good idea to double check where you think you are against where you actually are using 'pwd' (present working directory) before beginning some data operation.
 
