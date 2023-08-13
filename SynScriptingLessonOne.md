@@ -16,7 +16,8 @@ It can be said that you are changing your console working directory path into th
 
 1a. Go back up one directory level using 'cd ..' (change directory to the directory above the current directory) and run 'ls -l' (list current directory contents, long list mode.) This will show you, among other things, what a permissions string looks like. Sometimes the account you're "borrowing" doesn't have proper permissions to do what you want to do.
 
-In that case, sometimes, the output of the commands 'group !username' or 'id !username' (list group/id memberships of a user account,) combined with 'ls -l' (list contents in current directory, use long list output) will give you enough knowledge, and if you have the power, you can just add the account you're using to a valid group, edit the permissions of the resource, and/or vice versa. Other times, you will need to "borrow" a second, more privileged account to make that change. Sometimes, it is as simple as 'sudo' (superuser do) 
+In that case, sometimes, the output of the commands 'group !username' or 'id !username' (list group/id memberships of a user account,) combined with 'ls -l' (list contents in current directory, use long list output) will give you enough knowledge, and if you have the power, you can just add the account you're using to a valid group, edit the permissions of the resource, and/or vice versa. Other times, you will need to "borrow" a second, more privileged account to make that change. Sometimes, it is as simple as 'sudo' (superuser do.)
+
 Don't forget to put things you "borrow" back how you found them once you're done :)
 
 1b. For now, just run 'id !username' to see your membership. Then 'cd Documents' to go back into where you came from.
