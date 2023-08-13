@@ -65,5 +65,20 @@ PPPS.  'sudo cat >> /etc/hosts
 
 Now you can 'ping metasploitable' and 'nmap metasploitable' and it will auto resolve to the network IP.  If it looks funny or wrong in 'more', just 'sudo vim /etc/hosts' and fix it manually before bouncing the network stack. Once you have access to write to hosts, sometimes it'll make implementation of man in the middle and phishing much easier.
 
-Good luck, happy hunting, and most importantly: have fun!  Remember to take Virtual Machine Snapshots.  
+Good luck, happy hunting, and most importantly: have fun!  Remember to take Virtual Machine Snapshots.
 
+
+
+
+                     ^`.                     o
+     ^_              \  \                  o  o
+     \ \             {   \                 o
+     {  \           /     `~~~--__
+     {   \___----~~'              `~~-_     ______          _____
+      \                         /// a  `~._(_||___)________/___
+      / /~~~~-, ,__.    ,      ///  __,,,,)      o  ______/    \
+      \/      \/    `~~~;   ,---~~-_`~= \ \------o-'            \
+                       /   /            / /
+                      '._.'           _/_/
+                                      ';|\
+            -David "TAZ" Baltazar-
