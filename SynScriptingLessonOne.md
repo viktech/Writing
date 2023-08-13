@@ -8,7 +8,7 @@ Note: In the rest of the document, '!username' should be replaced with your actu
 
 Step 1. Open terminal. Type 'cd \~/Documents/' and hit Return.
 'cd' is 'change directory' and lets you move your console working path.
-'~' is a path shortcut to user home directory. In this case, '/home/!username/'
+'~' is a path shortcut to user home directory. In this case, '/home/!username'
 It can be said that you are changing your console working directory path into the Documents folder that is located in your user home directory.
 
 
