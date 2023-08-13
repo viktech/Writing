@@ -1,4 +1,4 @@
-Hello, Syn.  Would you like to play a game?
+Hello, Syn.  I want to play a game.
 
 A great information security professional will have a good sense of context and meta-analysis.  
 
