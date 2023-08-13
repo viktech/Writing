@@ -10,7 +10,7 @@ Step 1. Open terminal. Type 'cd ~/Documents/' and hit Return.
 It can be said that you are changing your console working directory path into the Documents folder that is located in your user home directory.
 
 
-[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your /home/! username directory, you can both read and write to the contents with no problem.
+[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your /home/! username directory, you can both read and write to the contents with no problem, as well as execute scripts and programs that live there.
 
 1a. Go back up one directory level using 'cd ..' (change directory to the directory above the current directory) and run 'ls -l' (list current directory contents, long list mode.) This will show you, among other things, what a permissions string looks like. Sometimes the account you're "borrowing" doesn't have proper permissions to do what you want to do.
 
@@ -18,7 +18,7 @@ In that case, sometimes, the output of the commands 'group !username' or 'id !us
 
 1b. For now, just run 'id !username' to see your membership. Then 'cd Documents' to go back into where you came from.
 
-A fun thing about permissions - even if you don't have read to a directory, you can still view permissions for a directory you can see but can't access. After all, how else would your account be able to know that it's been told it can't go in? ;) 'chmod' (change mode) command will let you edit permissions.
+A fun thing about permissions - even if you don't have read to a directory, you can still view permissions for a directory you can see but can't access. After all, how else would your account be able to know that it's been told it can't go in, if it can't read groups and see permissions? ;) 'chmod' (change mode) command will let you edit permissions.
 
 1c. For extra credit, 'man chmod' to open the change mode command manual page, and tell me why 'chmod 777' is easy but sloppy.]
 
