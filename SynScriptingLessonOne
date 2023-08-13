@@ -8,7 +8,7 @@ Step 1. Open terminal. Type 'cd ~/Documents/'
 '~' is a path shortcut to user home directory. In this case, '/home/!username/'
 'cd' is 'change directory' and lets you move your working path.
 
-[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your users directory, you can both read and write to the contents with no problem.
+[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your /home/! username directory, you can both read and write to the contents with no problem.
 
 1a. Go back up one directory level using 'cd ..' (change directory to the directory above the current directory) and run 'ls -l' (list current directory contents, long list mode.) This is, among other things, what a permissions string looks like. Sometimes the account you're "borrowing" doesn't have proper permissions to do what you want to do.
 
