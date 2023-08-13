@@ -19,6 +19,7 @@ It can be said that you are changing your console working directory path into th
 In that case, sometimes, the output of the commands 'group !username' or 'id !username' (list group/id memberships of a user account,) combined with 'ls -l' (list contents in current directory, use long list output) will give you enough knowledge, and if you have the power, you can just add the account you're using to a valid group, edit the permissions of the resource, and/or vice versa. You may need to "borrow" a second, more privileged account to make that change. Sometimes, it is as simple as 'sudo' (superuser do.) Other times, you may need to exploit and pivot to elevate.
 
 Don't forget to put things you "borrow" back how you found them once you're done :)
+If I'm in a good mood, I try to leave a thanks.txt somewhere for the next person to find.  A lot of times, I just end up thanking future myself on accident. It's still nice. Leaving a note is bad offensive security practice, as it violates the mantra of "leave no trace" but can be ok defensively, such as when you own the system, are in charge of its engineering or administration, or have been given permission to test.
 
 1b. For now, just run 'id !username' to see your membership. Then 'cd Documents' to go back into where you came from.
 
