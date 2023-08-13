@@ -12,7 +12,7 @@ Step 1. Open terminal. Type 'cd \~/Documents/' and hit Return.
 It can be said that you are changing your console working directory path into the Documents folder that is located in your user home directory.
 
 
-[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your /home/! username directory, you can both read and write to the contents with no problem, as well as execute scripts and programs that live there.
+[Remember, the account you are interacting through needs read permissions to a directory to navigate into or see its contents. Since your account owns your /home/!username directory, you can both read and write to the contents with no problem, as well as execute scripts and programs that live there.
 
 1a. Go back up one directory level using 'cd ..' (change directory to the directory above the current directory) and run 'ls -l' (list current directory contents, long list mode.) This will show you, among other things, what a permissions string looks like. Sometimes the account you're "borrowing" doesn't have proper permissions to do what you want to do.
 
