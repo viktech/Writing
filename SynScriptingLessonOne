@@ -4,6 +4,8 @@ You know about terminal and console commands. You have begun to practice using t
 
 That's awesome. You're doing great. But I want you to do even greater. I think you can do it, and I'll help if you get stuck.
 
+Note: In the rest of the document, '!username' should be replaced with your actual account username. 
+
 Step 1. Open terminal. Type 'cd ~/Documents/' and hit Return.
 'cd' is 'change directory' and lets you move your console working path.
 '~' is a path shortcut to user home directory. In this case, '/home/!username/'
