@@ -18,7 +18,7 @@ In that case, sometimes, the output of the commands 'group !username' or 'id !us
 
 1b. For now, just run 'id !username' to see your membership. Then 'cd Documents' to go back into where you came from.
 
-A fun thing about permissions - even if you don't have read to a directory, you can still view permissions for a directory you can see but can't access. After all, how else would your account be able to know that it's been told it can't go in, if it can't read groups and see permissions? ;) If you have (or borrow) write permissions, 'chmod' (change mode) command will let you edit other permissions values.
+A fun thing about permissions - even if you don't have read to a directory, you can still view permissions for a directory you can see but can't access. After all, how else would your account be able to know that it's been told it can't go in, if it can't read groups and see permissions? ;) If you have (or "borrow") write permissions, 'chmod' (change mode) command will let you edit other permissions values.
 
 1c. For extra credit, 'man chmod' to open the change mode command manual page, and tell me why 'chmod 777' is easy but sloppy.]
 
