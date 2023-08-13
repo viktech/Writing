@@ -30,8 +30,10 @@ The file extension .sh is indicative of a shell script. We are going to create a
 
 Step 4. Run 'more autoNmap.sh' to see the empty file contents.  'more' is very useful to print the contents of a file to console without opening an editor.
 
+Step 5. Let's add to the file.  'cat >> autoNmap.sh test text' (concatenation of text "test text" to file named autoNmap.sh) then 'more autoNmap.sh' again.
+
 In the future, I can just tell you to run 
-'cd ~/Documents && mkdir scripts && cd scripts && pwd' then 'touch autoNmap.sh && more autoNmap.sh'
+'cd ~/Documents && mkdir scripts && cd scripts && pwd' then 'touch autoNmap.sh && cat >> autoNmap.sh test text && more autoNmap.sh'
 
 Let me know when you are ready.
 
