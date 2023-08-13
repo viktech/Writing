@@ -48,7 +48,7 @@ Good work!
 And now in the future, I can just send you "run 
 'cd ~/Documents && mkdir scripts && cd scripts && pwd' then 'touch autoNmap.sh && cat >> autoNmap.sh sharky && more autoNmap.sh'," 
 or, 
-tell you to "move into your home Docs folder, make a scripts dir and touch autoNmap.sh there, then concatenate sharky into the new file and output the file to console for verification." You know enough about both ways!
+tell you to "move into your home Docs folder, make a scripts dir and touch autoNmap.sh there, then concatenate sharky into the new file and output the file contents to console for verification." You know enough about both ways!
 
 
 Let me know when you are ready to continue.
