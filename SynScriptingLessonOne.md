@@ -32,7 +32,7 @@ Step 2. From this location, the path of which can be printed using 'pwd' (presen
 It's a good idea to double check where you think you are against where you actually are using 'pwd' (present working directory) before beginning some data operation.
 
 
-Step 3. Did you 'pwd' to double check you were in /home/!username/Documents/scripts/ ? Good. Is that where you are? Even better. So now, 'touch autoNmap.sh' (create a file header in the present working directory of the file system called autoNmap.sh, and do not add anything to the body of the file.) 'touch' can also be useful to update the "last modified" timestamp without opening the file.
+Step 3. Did you 'pwd' to double check you were in /home/!username/Documents/scripts/ ? Good. Is that where you are? Even better. So now, 'touch autoNmap.sh' (create a file header called autoNmap.sh in the present working directory of the file system, and do not add anything to the body of the file.) 'touch' can also be useful to update the "last modified" timestamp without opening the file.
 
 The file extension .sh is indicative of a shell script. In the next lesson, we are going to create a shell script to ask the user a few questions, store the answers, autorun nmap based on the answers, automatically document the resulting output into a folder with the run date name and a file with the run time name, then display a little happy face to the user through console, but not in the file, before ending.
 
