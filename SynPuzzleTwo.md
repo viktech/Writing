@@ -21,6 +21,6 @@ Answer: a1ebe40fbbdf71da8f8b82553187237302fb30ca
 
 Reminder: Observing the length of a string can sometimes tell you what you may be looking at.
 
-Protip: 'cd ~/Documents && touch answer.txt && cat >> answer.txt a1ebe40fbbdf71da8f8b82553187237302fb30ca' then 'wc answer.txt' 
+Protip: 'cd ~/Documents && touch answer.txt && cat >> answer.txt a1ebe40fbbdf71da8f8b82553187237302fb30ca' then 'wc ./answer.txt' 
 
 'man wc' for more info.
