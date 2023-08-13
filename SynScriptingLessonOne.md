@@ -59,7 +59,7 @@ PPS.  /etc/hosts is a file with no file extension.  if you 'mkdir /etc/hosts' bo
 
 PPPS.  'sudo cat >> /etc/hosts
 192.168.1.136 metasploitable' 'more /etc/hosts' 'sudo service network-manager restart'
-now you can 'ping metasploitable' and 'nmap metasploitable' and it will auto resolve to the network IP.  if it looks funny or wrong in 'more' just 'sudo vim /etc/hosts' and fix it.
+now you can 'ping metasploitable' and 'nmap metasploitable' and it will auto resolve to the network IP.  if it looks funny or wrong in 'more' just 'sudo vim /etc/hosts' and fix it manually before bouncing the network stack.
 
 Good luck, happy hunting, and most importantly: have fun!  Remember to take Virtual Machine Snapshots.  
 
