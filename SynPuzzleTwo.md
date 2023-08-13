@@ -1,6 +1,6 @@
 You've escaped the handcuffs, but the door is still locked.  Can you find a key?
 
-An MD5 hash is NOT encryption. It is simply a fingerprint of a given input. However, it is a "one-way" transaction and as such it is _almost_ impossible to reverse engineer an MD5 hash to retrieve the original string.
+"An MD5 hash is NOT encryption. It is simply a fingerprint of a given input. However, it is a "one-way" transaction and as such it is _almost_ impossible to reverse engineer an MD5 hash to retrieve the original string."  (Emphasis mine)
 
 d20caec3b48a1eef164cb4ca81ba2587
 3a3ea00cfc35332cedf6e5e9a32e94da
