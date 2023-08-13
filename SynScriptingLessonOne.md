@@ -53,7 +53,7 @@ Let me know when you are ready to continue.
 
 PS.  the Linux filesystem is case-sensitive.  'autoNmap.sh' 'autonmap.sh' and 'Autonmap.sh' can all exist in the same directory at one time, causing no problem for the computer but lots of issues for you if you don't think about it.  As they say - There may be a PEBKAC - Problem Exists Between Keyboard and Chair.
 
-PPS.  /etc/hosts is a file with no file extension.  if you 'mkdir /etc/hosts' both a file named './hosts' will still exist, and the directory named './hosts/' will be created. Both can live in the same directory, in this case, '/etc/'. If you want to try, you might need to do 'sudo mkdir /etc/hosts' because you may not have naked write permissions.  You can undo 'mkdir' with 'rmdir' (remove directory.) Just manpage the command for syntax :)
+PPS.  /etc/hosts is a file with no file extension.  if you 'mkdir /etc/hosts' both a file named './hosts' will still exist, and the directory named './hosts/' will be created. Both can live in the same directory, in this case, '/etc/'. If you want to try, you might need to do 'sudo mkdir /etc/hosts' because you may not have naked write permissions.  You can undo 'mkdir' with 'rmdir' (remove directory.) You can use 'rm' (remove) to delete files. Just manpage the commands for syntax :)
 
 Good luck, happy hunting!
 
