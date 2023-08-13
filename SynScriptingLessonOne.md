@@ -40,7 +40,7 @@ The file extension .sh is indicative of a shell script. In the next lesson, we a
 Step 4. Run 'more autoNmap.sh' to see the empty file contents.  'more' is very useful to print the contents of a file to console without opening an editor.  Try running 'more /etc/hosts' to see if your hosts file has any local hostname-to-IP mappings.  Because you just used an absolute path string to reference the file location, you didn't actually move the console's present working directory.  You told it to look somewhere else, but without going there first. An alternative using relative paths would be to 'cd /etc/ && more ./hosts' (change directory to /etc/, then 'more' the file called hosts looking in that directory.) './' indicates, "look at the path starting in the current working directory" - similar to how '../' indicates "look at the path starting in the directory above the current directory." You can even chain them: 'cd ../../../folder/' would change the present working directory to one called 'folder' in a directory three levels higher than the current directory.
 
 
-Step 5. Let's add text to the empty file we created and double check the content. Run 'cat >> ./autoNmap.sh sharky' (concatenation of text "sharky" into the file in the local present working directory named autoNmap.sh) once, then 'more autoNmap.sh' once again.
+Step 5. Let's add text to the empty file we created and double check the content. Run 'cat >> ./autoNmap.sh sharky' (concatenation of text "sharky" into the file named autoNmap.sh located in the local present working directory) once, then 'more autoNmap.sh' once again.
 
 
 Good work!
