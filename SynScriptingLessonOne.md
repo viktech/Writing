@@ -58,6 +58,7 @@ PS.  the Linux filesystem is case-sensitive.  'autoNmap.sh' 'autonmap.sh' and 'A
 PPS.  /etc/hosts is a file with no file extension.  if you 'mkdir /etc/hosts' both a file named './hosts' will still exist, and the directory named './hosts/' will be created. Both can live in the same directory, in this case, '/etc/'. If you want to try, you might need to do 'sudo mkdir /etc/hosts' because you may not have naked write permissions.  You can undo 'mkdir' with 'rmdir' (remove directory.) You can use 'rm' (remove) to delete files. Just manpage the commands for syntax :) And don't accidentally remove '/etc/hosts' :( It's a part of your networking stack.
 
 PPPS.  'sudo cat >> /etc/hosts
+
 192.168.1.136 metasploitable' 'more /etc/hosts' 'sudo service network-manager restart'
 now you can 'ping metasploitable' and 'nmap metasploitable' and it will auto resolve to the network IP.  If it looks funny or wrong in 'more', just 'sudo vim /etc/hosts' and fix it manually before bouncing the network stack.
 
