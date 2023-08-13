@@ -29,7 +29,7 @@ Step 3. Did you 'pwd' to double check you were in /home/!username/Documents/scri
 The file extension .sh is indicative of a shell script. We are going to create a shell script to ask the user a few questions, autorun nmap based on the answers, automatically document the resulting output into a folder with the run date name and a file with the run time name, then display a little happy face to the user before ending.
 
 In the future, I can just tell you to run 
-'cd ~/Documents && mkdir scripts && cd scripts && pwd &&  touch autoNmap.sh'
+'cd ~/Documents && mkdir scripts && cd scripts && pwd && touch autoNmap.sh'
 
 Let me know when you are ready.
 
