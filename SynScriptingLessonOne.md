@@ -64,7 +64,7 @@ PPPS.  'sudo cat >> /etc/hosts
 'more /etc/hosts' 
 'sudo service network-manager restart'
 
-Now you can 'ping metasploitable' and 'nmap metasploitable' and it will auto resolve to the network IP.  If it looks funny or wrong in 'more', just 'sudo vim /etc/hosts' and fix it manually before bouncing the network stack. Once you have access to write to hosts, sometimes it'll make implementation of man in the middle and phishing much easier.
+Now you can 'ping metasploitable' and 'nmap metasploitable' and it will auto resolve to the network IP.  If it looks funny or wrong in 'more', just 'sudo vim /etc/hosts' and fix it manually before bouncing the network stack. Once you have access to write to hosts, sometimes it'll make implementation of man-in-the-middle and phishing much easier.
 
 Good luck, happy hunting, and most importantly: have fun!  Remember to take Virtual Machine Snapshots.
 
