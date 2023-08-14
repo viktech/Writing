@@ -1,4 +1,4 @@
-You've escaped the handcuffs, but the door is still locked.  Can you find a key?
+You've escaped the handcuffs, but the door is still locked.  Can you find a key indexed to the lock?
 
 "An MD5 hash is NOT encryption. It is simply a fingerprint of a given input. However, it is a "one-way" transaction and as such it is _almost_ impossible to reverse engineer an MD5 hash to retrieve the original string."  (Emphasis mine)
 
