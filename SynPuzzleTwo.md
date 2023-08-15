@@ -17,7 +17,7 @@ Difficulty: Easy (Less easy than PuzzleOne)
 
 Hint: Already provided ;)
 
-Answer: a1ebe40fbbdf71da8f8b82553187237302fb30ca
+Answer (Plaintext Hash): a1ebe40fbbdf71da8f8b82553187237302fb30ca
 
 Reminder: Observing the length of a string can sometimes tell you what you may be looking at.
 
