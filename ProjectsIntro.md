@@ -10,5 +10,8 @@ The second project is a personal one that stems from some advice you gave me, co
 
 I am trying to develop strategies or techniques to allow me to practice these things.  However, they are naturally challenging to me, so I'm having trouble self-identifying steps to improve or exercises to practice. 
 
+If we could brainstorm or collaboratively review some of the notes I've created, I think it would help a lot.
 
+Garlic says hello.
 
+Vik
