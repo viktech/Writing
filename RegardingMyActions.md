@@ -1,6 +1,6 @@
 Vikram Shanker  
 Oakland Ave.  
-Shorewood WI  
+Shorewood, WI  
 
 Jamie DeJesus  
 IESI Institute  
