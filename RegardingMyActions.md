@@ -1,10 +1,16 @@
 Vikram Shanker
+
 Oakland Ave.
+
 Shorewood WI
 
+
 Jamie DeJesus
+
 IESI Institute
+
 Milwaukee, WI
+
 
 September 3, 2023
 
