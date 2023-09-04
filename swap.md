@@ -25,3 +25,8 @@ Pupper Plan
 -Long leash (tied into a bundle)
 
 -Treato bag
+
+
+carry a camera and a microphone.  capture the audio moment of the photography session.
+
+edit them together to make a unique multimedia piece
