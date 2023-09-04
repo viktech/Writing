@@ -1,19 +1,14 @@
-Vikram Shanker
+Vikram Shanker  
+Oakland Ave.  
+Shorewood WI  
 
-Oakland Ave.
-
-Shorewood WI
-
-
-Jamie DeJesus
-
-IESI Institute
-
-Milwaukee, WI
-
-
-September 3, 2023
-
+Jamie DeJesus  
+IESI Institute  
+Milwaukee, WI  
+<br>
+September 3, 2023  
+<br>
+<br>
 Dear Mr. DeJesus,
 
 I want to deeply and fully apologize for my actions on the Tuesday several weeks ago.
