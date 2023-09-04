@@ -30,3 +30,4 @@ Pupper Plan
 carry a camera and a microphone.  capture the audio moment of the photography session.
 
 edit them together to make a unique multimedia piece
+use the tripod has a monopod it is the monopod as a walking stick
