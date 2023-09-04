@@ -1,6 +1,14 @@
+Vikram Shanker
+Oakland Ave.
+Shorewood WI
 
+Jamie DeJesus
+IESI Institute
+Milwaukee, WI
 
-†Mr. DeJesus,
+September 3, 2023
+
+Dear Mr. DeJesus,
 
 I want to deeply and fully apologize for my actions on the Tuesday several weeks ago.
 
@@ -14,7 +22,9 @@ I also need to apologize to the front desk staff for the disturbance I caused.  
 
 I have made significant changes during the interim period, and I hope that these changes will reinforce my ability to make positive, productive decisions.  I plan to continue my journey of self-improvement.
 
-Please consider this message a step on the path to owning my decisions.
+Thank you for calling my father.  The actions you took helped me a lot.  I regret that they were necessary in such a negative situation.
+
+Please consider this message a step on the path to owning my decisions, and improving the choices I make.
 
 I will be happy to discuss this message, or any related aspect, in person.
 
