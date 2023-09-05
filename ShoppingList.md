@@ -4,6 +4,6 @@
 - [x] Treat Bag
   - https://www.rei.com/product/130769/8bplus-max-chalk-bag
     - $19.76
-- [ ] Garlic Flag
+- [x] Garlic Flag
   - https://www.bannerbuzz.com/personalized-flags/p
     - $27.23
