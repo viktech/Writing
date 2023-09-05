@@ -1,4 +1,4 @@
-- [ ] Shop Towels
+- [x] Shop Towels
   - https://www.amazon.com/Towels-Original-75147-Sheets-Standard/dp/B0035BTQ06/
     - $34.44
 - [ ] Treat Bag
