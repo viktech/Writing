@@ -1,9 +1,9 @@
-- Shop Towels
+- [ ] Shop Towels
   - https://www.amazon.com/Towels-Original-75147-Sheets-Standard/dp/B0035BTQ06/
     - $34.44
-<br>
-- Treat Bag
+- [ ] Treat Bag
   - https://www.rei.com/product/130769/8bplus-max-chalk-bag
     - $19.76
-<br>
-- Garlic Flag
+- [ ] Garlic Flag
+      - https://www.bannerbuzz.com/personalized-flags/p
+        - $27.23
