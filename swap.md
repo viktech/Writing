@@ -43,4 +43,9 @@ carry cotton balls and alcohol /water to clean the tip.  use small nalgene for a
 
 
 
+https://www.rickshawbags.com/solo-pen-sleeve-no-borrow#!/short-s-/yellow
+<BR>
+in short/yellow
+
+
 
