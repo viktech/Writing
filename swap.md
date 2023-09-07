@@ -48,4 +48,4 @@ https://www.rickshawbags.com/solo-pen-sleeve-no-borrow#!/short-s-/yellow
 in short/yellow
 
 
-
+I can just take the hold on I see a dog sticker flip it to green text and tile it so I can just cut it into multiple individual stickers
