@@ -1,6 +1,6 @@
 Milwaukee Public Library Central on Wisconsin Ave
 
--a beautiful marble architecture in the Renaissance style, with regularly curated collections and an extensive catalog.  Great ambiance, it's always a good vibe.
+-a beautiful marble architecture in the Renaissance style, with regularly curated collections and an extensive catalog.  Great ambiance, it's always a good vibe, even if just for the afternoon 
 
 Milwaukee Public Market
 
