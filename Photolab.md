@@ -18,7 +18,7 @@
 ## PROJECT DETAILS
 
 ### Description
-The proposed Photography Darkroom & Film Development Studio would provide Milwaukee MakerSpace members with a dedicated light-controlled environment for developing film and creating photographic prints using traditional analog methods. The area would be divided into a "dry side" for print enlargement and a "wet side" for chemical processing of both film and photographic paper. This facility would support both black & white and color processes, enabling members to explore the full range of analog photography techniques from film development to final print production.
+The proposed Photography Darkroom & Film Development Studio would provide Milwaukee MakerSpace members with a dedicated light-controlled environment for developing film and creating photographic prints using traditional analog methods. The area would be divided into a "dry side" for print enlargement and a "wet side" for chemical processing of both film and photographic paper. This facility would initially support black & white process with expansion to color processes, enabling members to explore the full range of analog photography techniques from film development to final print production.
 
 ### Purpose & Benefits
 *Explain how this workstation/area will benefit the MakerSpace and its members*
