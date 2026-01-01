@@ -1,4 +1,4 @@
-## **HACKING HAPPY HOUR - IMPLEMENTATION ROADMAP**
+ ## **HACKING HAPPY HOUR - IMPLEMENTATION ROADMAP**
 
 ---
 
@@ -57,11 +57,10 @@
 #### **Venue Outreach Checklist:**
 - [ ] Create one-page venue pitch PDF
 - [ ] Contact list priorities:
-  - [ ] Sugar Maple (you know them)
-  - [ ] Company Brewing
-  - [ ] Burnhearts
-  - [ ] Milwaukee Makerspace event
+  - [ ] Club Garibaldi
   - [ ] Cactus Club
+  - [ ] Milwaukee Makerspace event
+
 - [ ] Schedule venue visits (aim for 2/week)
 - [ ] Negotiate first event terms (start free if needed)
 - [ ] Lock in 3 pilot dates
