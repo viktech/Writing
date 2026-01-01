@@ -165,5 +165,3 @@
 1. **TODAY**: Register business name online (Wisconsin DFI website, takes 20 minutes)
 2. **TOMORROW**: Order WiFi Pineapple from Hak5
 3. **THIS WEEK**: Text one venue owner you know to gauge interest
-
-Want me to break down any specific phase into even smaller steps, or help you tackle the first checklist items?
