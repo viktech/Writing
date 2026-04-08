@@ -1,16 +1,76 @@
-# Wabi-Sabi Production Checklist
+# Wabi-Sabi Live Set
 
-### Current Date and Time (UTC)
-2026-04-08 23:44:23
+## Introduction
+This live set encompasses a unique sound design with a blend of organic acoustics and electronic elements, designed for a dynamic and transformative experience.
 
-### Current User's Login
-viktech
+## Global Set Parameters
+- **Master Settings**: [Insert master settings here]
+- **Bus Chain**: [Insert bus chain configuration here]
 
----
+## MPC Live II Configuration
+- [Insert MPC Live II configuration details here]
 
-### Checklist Items:
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
-- [ ] Item 4
-- [ ] Item 5
+## Act I: Awakening
+### Track 1: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+### Track 2: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+### Track 3: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+## Act II: Descent
+### Track 4: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+### Track 5: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+### Track 6: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+## Act III: Rupture
+### Track 7: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+### Track 8: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+### Track 9: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+## Act IV: Acceptance
+### Track 10: [Track name]
+- Sound Design Specifications: [Insert specifications]
+- Mix Targets: [Insert mix targets]
+
+## Transitions
+- [Insert transitions details]
+
+## Arc Summary Table
+| Act | Description |
+| --- | ----------- |
+| I | Awakening |
+| II | Descent |
+| III | Rupture |
+| IV | Acceptance |
+
+## Complete Performance Checklist
+### Pre-Show
+- [Insert pre-show checklist]
+### Venue/Soundcheck
+- [Insert venue/soundcheck checklist]
+### During Performance
+- [Insert during performance checklist]
+### Set Timing
+- [Insert set timing details]
